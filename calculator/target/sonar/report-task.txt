@@ -1,0 +1,6 @@
+projectKey=com.echios:calculator
+serverUrl=https://symmetrical-doodle-r7954x494vpf564v-9000.app.github.dev
+serverVersion=25.9.0.112764
+dashboardUrl=https://symmetrical-doodle-r7954x494vpf564v-9000.app.github.dev/dashboard?id=com.echios%3Acalculator
+ceTaskId=b97aea53-6075-42f9-9997-12a9bf9518ba
+ceTaskUrl=https://symmetrical-doodle-r7954x494vpf564v-9000.app.github.dev/api/ce/task?id=b97aea53-6075-42f9-9997-12a9bf9518ba
